@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="biznesmen" Collapsed="true">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEARAVAAAQEIAUEAowIBAAAATCAAABAYAAAACgAAAg=</HashCode>
+      <FileName>biznesmen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gracz" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAQABAAAAAIAAEAowAAAAAAUCAAABAYAAAAAAAAAA=</HashCode>
+      <FileName>gracz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kucwin" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAQAAEABAAgIAIIABAAAAAAAAAAgAA=</HashCode>
+      <FileName>kucwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="npc" Collapsed="true">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAgAAAIAAAIAAIAAgAIAAAAAAAADAAAAAA=</HashCode>
+      <FileName>npc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="panmietek" Collapsed="true">
+    <Position X="15.5" Y="2" Width="1.5" />
+    <InheritanceLine Type="gracz">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="-0.503" Y="0.074" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AEEARARAAAQEMAQEAowIBAAAgSCAAABAYAAAACgAAAg=</HashCode>
+      <FileName>panmietek.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sklep" Collapsed="true">
+    <Position X="11.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAQAQAAAAAAAAIgAAAAAQAAAAAAAA=</HashCode>
+      <FileName>sklep.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="zadanie" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>zadanie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
